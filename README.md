@@ -2,9 +2,9 @@
 
 This document details the implementation of Open Cybersecurity Alliance (OCA) custom object support for the MISP-STIX-Converter library, enabling bidirectional conversion of `x-oca-behavior` and `x-oca-detection` objects between MISP and STIX 2.1 formats.
 
-Refer also to [MISP-STIX-Readme.md] (https://github.com/annaghman/misp-stix-converter/blob/main/MISP-STIX-Readme.md) for information on how to install.
+Refer also to [MISP-STIX-Readme.md] (https://github.com/annaghman/misp-stix-converter/blob/main/MISP-STIX-Readme.md) for background knowledge.
 
-Refer also to [INSTALLATION.md] (https://github.com/annaghman/misp-stix-converter/blob/main/INSTALL.md) for background knowledge.
+Refer also to [INSTALLATION.md] (https://github.com/annaghman/misp-stix-converter/blob/main/INSTALL.md) for  information on how to install.
 
 ## Implementation Overview
 
