@@ -4,7 +4,7 @@ This document details the implementation of Open Cybersecurity Alliance (OCA) cu
 
 Refer also to [MISP-STIX-Readme.md] (https://github.com/annaghman/misp-stix-converter/blob/main/MISP-STIX-Readme.md) for information on how to install.
 
-Refer also to [INSTALLATION.md] (https://github.com/annaghman/misp-stix-converter/blob/main/INSTALATION.md) for background knowledge.
+Refer also to [INSTALLATION.md] (https://github.com/annaghman/misp-stix-converter/blob/main/INSTALL.md) for background knowledge.
 
 ## Implementation Overview
 
